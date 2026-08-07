@@ -23,3 +23,17 @@ A simple Python program that simulates rolling two dice and displays random resu
 - If-elif-else conditions
 - Random module
 - f-strings
+
+### 2. Number Guessing Game 🔢
+
+A simple Python game where the computer generates a random number between 1 and 100, and the user tries to guess it.
+
+**Concepts Used:**
+
+* Variables
+* User input
+* While loop
+* If-elif-else conditions
+* Random module
+* Try-except
+* ValueError
