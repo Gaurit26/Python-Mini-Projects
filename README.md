@@ -37,3 +37,21 @@ A simple Python game where the computer generates a random number between 1 and 
 * Random module
 * Try-except
 * ValueError
+
+### 3. Rock Paper Scissors ✊📃✂️
+
+A simple Python game where the user plays Rock Paper Scissors against the computer.
+
+**Concepts Used:**
+
+* Variables
+* User input
+* While loop
+* If-elif-else conditions
+* Random module
+* Tuples
+* Dictionaries
+* `random.choice()`
+* f-strings
+* `continue` and `break`
+* Logical operators (`and`, `or`)
