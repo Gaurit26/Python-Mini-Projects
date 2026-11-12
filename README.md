@@ -55,3 +55,28 @@ A simple Python game where the user plays Rock Paper Scissors against the comput
 * f-strings
 * `continue` and `break`
 * Logical operators (`and`, `or`)
+
+### 4. Computer Quiz Game 💻
+
+A simple Python quiz game where users answer basic computer-related questions and receive a score based on their correct answers.
+
+**Concepts Used:**
+- Variables
+- User input
+- If-else conditions
+- String methods (`lower()`)
+- Score tracking
+- Type conversion (`str()`)
+- Basic arithmetic operations
+
+### 5. Text-Based Adventure Game 🗺️
+
+An interactive text-based game where players make choices at different stages of the story and experience different outcomes based on their decisions.
+
+**Concepts Used:**
+- Variables
+- User input
+- If-elif-else conditions
+- Nested conditional statements
+- String methods (`lower()`)
+- Decision-making logic
