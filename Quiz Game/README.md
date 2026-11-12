@@ -41,5 +41,5 @@ Created as a beginner Python mini-project to practise basic programming concepts
 
 ---
 
-**Language:** Python 3  
+**Language:** Python   
 **Project Type:** Beginner Mini Project
